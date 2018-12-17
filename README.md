@@ -1,3 +1,4 @@
 # English Pronounce
 
-Speech detection and robotic production technologies, namely AVFoundation, SFSpeechRecognizer were used. 
+Application for reading texts with the aim of training the pronunciation of English words.
+Speech detection and robotic pronunciation technologies, namely AVFoundation, SFSpeechRecognizer were used. 
